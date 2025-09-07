@@ -1,64 +1,35 @@
 # 🧠 Scikit-Learn Modeling Project
 ## 📌 Deskripsi
 
-Proyek ini merupakan implementasi machine learning menggunakan Scikit-Learn.
-Di dalam repository ini terdapat:
+This project is about implementation of machine learning using scikit-learn
+This repo includes:
 
-Dataset yang digunakan untuk training dan evaluasi model
+Many Datasets
 
-Notebook (.ipynb) untuk eksplorasi data, preprocessing, dan modeling
+Notebook (.ipynb) untuk data exploration, preprocessing, and modeling
 
-Script Python (.py) untuk melatih model
+Script Python (.py) for training the models
 
-File requirements.txt yang berisi daftar dependensi
-
-Tujuan proyek ini adalah untuk mempelajari proses end-to-end pembuatan model machine learning, mulai dari data preparation, training, hingga evaluasi model.
+The goal of this project is to study the end-to-end process of building a machine learning model, from data preparation, training, to model evaluation.
 
 ## 📊 Dataset
 
-Nama: dataset.csv
+Nama: train.csv dan test.csv
 
-Sumber: (isi jika dataset publik, misalnya dari Kaggle atau UCI Machine Learning Repository)
+Sumber: 1. https://www.kaggle.com/competitions/playground-series-s5e9
 
-Deskripsi singkat: jelaskan kolom-kolom dataset dan target yang diprediksi
+Deskripsi singkat: Those datasets are about many things.
 
-## 🧮 Model yang Digunakan
+## 🧮 The Models I Used
 
 Beberapa algoritma Scikit-Learn yang diuji dalam proyek ini:
 
-Logistic Regression
+Linear Regression
 
-Decision Tree Classifier
+Random Forest Regressor
 
-Random Forest
+## 📈 Result and Evaluation
 
-Support Vector Machine (SVM)
+Akurasi terbaik: ?%
 
-Model terbaik dipilih berdasarkan akurasi, precision, recall, dan F1-score.
-
-## 📈 Hasil & Evaluasi
-
-Akurasi terbaik: XX%
-
-Model terbaik: Random Forest (misalnya)
-
-## 🔍 Visualisasi Hasil
-Confusion Matrix
-
-Grafik Perbandingan Akurasi
-
-Catatan: File gambar (.png) ini bisa kamu export dari Notebook dan simpan di folder images/ agar tampil di README.
-
-## 🤝 Kontribusi
-
-Jika ingin berkontribusi:
-
-Fork repository ini
-
-Buat branch baru (git checkout -b fitur-baru)
-
-Commit perubahan (git commit -m "Menambahkan fitur baru")
-
-Push branch (git push origin fitur-baru)
-
-Ajukan Pull Request
+Model terbaik: Linear Regression
