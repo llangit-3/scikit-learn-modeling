@@ -1,5 +1,5 @@
-#🧠 Scikit-Learn Modeling Project
-##📌 Deskripsi
+# 🧠 Scikit-Learn Modeling Project
+## 📌 Deskripsi
 
 Proyek ini merupakan implementasi machine learning menggunakan Scikit-Learn.
 Di dalam repository ini terdapat:
@@ -14,7 +14,7 @@ File requirements.txt yang berisi daftar dependensi
 
 Tujuan proyek ini adalah untuk mempelajari proses end-to-end pembuatan model machine learning, mulai dari data preparation, training, hingga evaluasi model.
 
-##📊 Dataset
+## 📊 Dataset
 
 Nama: dataset.csv
 
@@ -22,7 +22,7 @@ Sumber: (isi jika dataset publik, misalnya dari Kaggle atau UCI Machine Learning
 
 Deskripsi singkat: jelaskan kolom-kolom dataset dan target yang diprediksi
 
-##🧮 Model yang Digunakan
+## 🧮 Model yang Digunakan
 
 Beberapa algoritma Scikit-Learn yang diuji dalam proyek ini:
 
@@ -36,20 +36,20 @@ Support Vector Machine (SVM)
 
 Model terbaik dipilih berdasarkan akurasi, precision, recall, dan F1-score.
 
-##📈 Hasil & Evaluasi
+## 📈 Hasil & Evaluasi
 
 Akurasi terbaik: XX%
 
 Model terbaik: Random Forest (misalnya)
 
-##🔍 Visualisasi Hasil
+## 🔍 Visualisasi Hasil
 Confusion Matrix
 
 Grafik Perbandingan Akurasi
 
 Catatan: File gambar (.png) ini bisa kamu export dari Notebook dan simpan di folder images/ agar tampil di README.
 
-##🤝 Kontribusi
+## 🤝 Kontribusi
 
 Jika ingin berkontribusi:
 
